@@ -10,6 +10,8 @@
 - **動作プラットフォーム:** Windows
 
 ## 📷 プレイ画面
+動画はこちら(GoogleDriveURL)
+https://x.gd/1WfQT
 * 配置フェーズ
 > <img width="2560" height="1080" alt="スクリーンショット 2026-04-02 191712" src="https://github.com/user-attachments/assets/a683ed1e-027c-4625-8573-d37cc6b25133" />
 * 戦闘フェーズ
